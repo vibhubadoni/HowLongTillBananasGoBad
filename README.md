@@ -44,6 +44,10 @@ Ensure you have Python installed on your system. This application relies on the 
 
 ## Usage
 
+To start the application open this link it works better using a phone main camera -https://howlongtillbananasgobad-evsauuzazgviygkstwlhn3.streamlit.app/
+
+#The following method is for running the app on your own machine.--
+
 To start the application, run the following command in your terminal:
 
 ```bash
